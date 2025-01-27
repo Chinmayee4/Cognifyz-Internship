@@ -14,8 +14,8 @@ This project aims to provide insights into restaurant performance through data a
 * Generate Reports: Generate detailed reports and visualizations of the analysis results.
 # Features
   * Level 1
-
-* Top cuisines
-* City Analysis
-* Price range distribution
-* Online delivery
+    
+     * Top cuisines
+     * City Analysis
+     * Price range distribution
+     * Online delivery
