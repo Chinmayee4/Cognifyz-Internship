@@ -21,10 +21,10 @@ This project aims to provide insights into restaurant performance through data a
      * Online delivery
  * Level 2
 
-  * Restaurant ratings
-  * Cuisine combinations
-  * Geographical analysis
-  * Restaurant chains
+    * Restaurant ratings
+    * Cuisine combinations
+    * Geographical analysis
+    * Restaurant chains
 * Level 3
 
   * Restaurant reviews
