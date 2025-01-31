@@ -38,7 +38,8 @@ This project aims to provide insights into restaurant performance through data a
 * Restaurants having least price on there dishes get more orders. Order with price range of 1 have been ordered more, 46.51% of the entire dataset.
 * 2,451 restaurants are providing online delivery, 25.7% of the entire dataset. Restaurants providing online delivery are given more average ratings.
 * The most common rating range exists from 3 - 4, the most common rating in all the dataset is marked at 3.5 and Average number of votes received by restaurants are 156.77.
-* There are 1,731 cuisine combinations, North Indian and Chineese is the most common cuisine combination. Italian & Deli, the cuisine combinations in the dataset having higher ratings.
-* Geographical analysis of the restaurants helps in determining the clusters forming in South east Asia, majorly from Idndia the followed by USA and then the rest of the world.
-* 734 restaurant chain in the dataset, and Cafe coffe day has most numbers of restaurnats (83). "Talaga Sampireun" the restaurant chain that has total of 5,517 votes with average rating 
+* North Indian and Chinese is the most common cuisine combination. Italian & Deli, the cuisine combinations in the dataset having higher ratings.
+* Geographical analysis of the restaurants helps in determining the clusters forming in South east Asia, majorly from India the followed by USA,UK,Australia,UAE,Turkey,South Africa,
+ Indonesia and then the rest of the world.
+* 734 restaurant chain in the dataset, and Cafe coffe day has most numbers of restaurnats (83). "Talaga Sampireun" the restaurant chain that has total of 5,514 votes with average rating 
  of 4.9.
