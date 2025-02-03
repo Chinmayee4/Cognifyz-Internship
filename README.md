@@ -43,3 +43,9 @@ This project aims to provide insights into restaurant performance through data a
  Indonesia and then the rest of the world.
 * 734 restaurant chain in the dataset, and Cafe coffe day has most numbers of restaurnats (83). "Talaga Sampireun" the restaurant chain that has total of 5,514 votes with average rating 
  of 4.9.
+* The most common positive review is "Average" with 3,734 counts (39.1% of the data). The most common negative review is "Poor" with 186 counts (1.9% of the data). Additionally, there is 
+  a negative correlation between review length and rating is -0.60 : as review length increases, the aggregate rating tends to decrease.
+* The restaurant "Toit" from Bangalore, India, received the maximum votes (10934), while "Cantinho da Gula" from Sao Paulo, Brazil, received none. The weak positive correlation between 
+  the number of votes and the aggregate rating is confirmed by a correlation coefficient of 0.31.
+* The proportion of restaurants offering online delivery rises with higher price ranges, peaking at range 2. Similarly, table booking availability increases with price, highest in ranges 
+  3 and 4. Among 1,991 high-priced restaurants, 464 (23.3%) offer online delivery, while 918 (46.1%) offer table booking.
